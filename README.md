@@ -8,7 +8,8 @@
 ## 📱 UI
 
 
-![Screenshot_20240715_015522.jpg](..%2F..%2FDesktop%2FScreenshot_20240715_015522.jpg)
+![Screenshot 2024-07-15 020306](https://github.com/user-attachments/assets/4a086036-c33d-4686-a8b8-8a7e38fad4d1)
+
 
 
 
