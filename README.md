@@ -1,4 +1,7 @@
 ## 🤳 Screens
+
+- **Product Screen:** Showing the Products and gives you the ability to search to search for products.
+  
 ## 📁 File Structure
 
 ![img_1.png](img_1.png)
