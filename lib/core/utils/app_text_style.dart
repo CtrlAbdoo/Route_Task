@@ -26,7 +26,6 @@ TextStyle boldStyle({
       fontWeight: FontWeight.bold,
     );
 
-
 // regular style
 TextStyle regularStyle({
   Color color = AppColors.white,
@@ -36,4 +35,16 @@ TextStyle regularStyle({
       color: color,
       fontSize: fontSize,
       fontWeight: FontWeight.normal,
+    );
+
+// bodyText1 style
+TextStyle bodyText1({
+  Color color = Colors.black,
+  double fontSize = 14,
+  FontWeight fontWeight = FontWeight.normal,
+}) =>
+    _textStyle(
+      color: color,
+      fontSize: fontSize,
+      fontWeight: fontWeight,
     );
