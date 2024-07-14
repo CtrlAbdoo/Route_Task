@@ -8,7 +8,7 @@
 ## 📱 UI
 
 
-![Screenshot 2024-07-15 020306](https://github.com/user-attachments/assets/4a086036-c33d-4686-a8b8-8a7e38fad4d1)
+![Screenshot_20240715_015522](https://github.com/user-attachments/assets/c60a9f08-44ed-4281-b900-ebe54d30822a)
 
 
 
