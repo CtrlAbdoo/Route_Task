@@ -4,7 +4,8 @@
   
 ## 📁 File Structure
 
-![img_1.png](img_1.png)
+<img src="img_1.png"  width="200" height="400"/>
+
 
 
 
